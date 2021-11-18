@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        printSquareStar(8);
+        printSquareStar(12);
     }
 
     public static void printSquareStar(int number) {
